@@ -1,0 +1,51 @@
+html, body {
+
+height:100%;
+width: 100%;
+
+}
+body {
+	padding: 2%;
+
+}
+
+.title {
+  text-align: center;
+}
+.title-2 {
+	text-align: left;
+
+}
+.green-box {
+	height: 100%;
+	width: 100%;
+    background-color: green;
+    padding: 2%;
+
+}
+.blue-box {
+height: 100%;
+width: 35;
+background-color: blue;
+}
+.yellow-box1{
+	height: 35%;
+	width: 100%;
+	background-color: yellow;
+	margin: 0%;
+}
+
+.yellow-box2{
+    height: 35%;
+	width: 100%;
+	background-color: yellow;
+	margin: 0%;
+
+}
+.white-box {
+	height: 100%;
+	width : 20%;
+	background-color : #fff;
+	display: inline-block;
+}
+
